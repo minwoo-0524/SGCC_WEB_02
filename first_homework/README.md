@@ -15,6 +15,8 @@
 2. live server 검색
 3. Live Server : Open with Live Server 클릭
 
+다음코드를 적용해서 live server를 실행해보세요
+
 ```html
 <!DOCTYPE html>
 <html>
