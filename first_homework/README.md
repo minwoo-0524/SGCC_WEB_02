@@ -46,6 +46,8 @@
 ## 과제 제출 방법
 반드시 **Pull Request** 를 날려주세요
 
+과제를 제대로 완료했다면 이미지에 마우스를 가져가면 이미지가 흔들립니다.
+
 ## 참고 링크
 [PR 관련] : https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/   
 [W3School] : https://www.w3schools.com/
