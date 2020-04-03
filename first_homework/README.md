@@ -1,6 +1,9 @@
 ## vscode 사용시 주의사항
 1. live server 확장자 설치하기
-2. encoding 설정을 utf-8로 해주세요
+2. 한글 설정은 확장자 에서 kroean 검색하지고 microsoft에서 제공하는 확장자 설치하시면 됩니다.
+3. encoding 설정을 utf-8로 해주세요
+
+### 확장자는 좌측에 네모 4개로 이뤄진 아이콘입니다.
 
 ### encoding 설정 방법
 1. 파일 -> 기본 설정 -> 설정
@@ -11,6 +14,31 @@
 1. `ctrl`+`shift`+`P` 를 누른다
 2. live server 검색
 3. Live Server : Open with Live Server 클릭
+
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .box-container{
+                display:flex;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="box-container">
+            <div>hello1</div>
+            <div>hello2</div>
+            <div>hello3</div>
+        </div>
+        <div class="box-container">
+            <div>hello1</div>
+            <div>hello2</div>
+            <div>hello3</div>
+        </div>
+    </body>
+</html>
+```
 
 ## 과제 제출 방법
 반드시 **Pull Request** 를 날려주세요
